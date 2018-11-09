@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "scale-btn",
+    "texture": "cf7c630a-6f22-4969-8b48-02035b999471",
+    "atlas": "",
+    "rect": [
+      1,
+      2,
+      60,
+      61
+    ],
+    "offset": [
+      -1,
+      -0.5
+    ],
+    "originalSize": [
+      64,
+      64
+    ]
+  }
+}

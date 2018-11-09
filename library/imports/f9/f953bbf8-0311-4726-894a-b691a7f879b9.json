@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "表情1",
+    "texture": "7fa414e3-d1bc-42ff-8c99-18e7b308a714",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      173
+    ]
+  }
+}

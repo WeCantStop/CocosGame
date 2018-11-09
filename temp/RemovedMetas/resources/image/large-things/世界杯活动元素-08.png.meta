@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b1de48ce-d2df-4097-b77a-41e5de1a1628",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "世界杯活动元素-08": {
+      "ver": "1.0.3",
+      "uuid": "395c09bb-eb51-4ec5-b23e-150f99077628",
+      "rawTextureUuid": "b1de48ce-d2df-4097-b77a-41e5de1a1628",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 17,
+      "offsetY": 11,
+      "trimX": 231,
+      "trimY": 196,
+      "width": 278,
+      "height": 372,
+      "rawWidth": 706,
+      "rawHeight": 786,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "select-country",
+    "texture": "cbcf690d-2bc6-4308-a3fb-3e6d90820caa",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      391,
+      390
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      391,
+      390
+    ]
+  }
+}

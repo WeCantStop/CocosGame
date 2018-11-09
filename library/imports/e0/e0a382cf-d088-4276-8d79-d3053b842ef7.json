@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "默认脸男",
+    "texture": "4cc7d291-6e36-485f-bad9-f807e36db1ee",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      173
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "默认头发-02",
+    "texture": "24d51235-8417-4ef9-b814-ed1905a1cd13",
+    "atlas": "",
+    "rect": [
+      55,
+      141,
+      145,
+      86
+    ],
+    "offset": [
+      -3,
+      -27
+    ],
+    "originalSize": [
+      261,
+      314
+    ]
+  }
+}

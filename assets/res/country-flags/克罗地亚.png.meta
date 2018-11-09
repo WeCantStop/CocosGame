@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b66ebbcd-f178-42eb-b692-fd8afc697ce0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "克罗地亚": {
+      "ver": "1.0.3",
+      "uuid": "b73359b1-9d46-4183-a689-367199e0b321",
+      "rawTextureUuid": "b66ebbcd-f178-42eb-b692-fd8afc697ce0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 513,
+      "height": 513,
+      "rawWidth": 513,
+      "rawHeight": 513,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

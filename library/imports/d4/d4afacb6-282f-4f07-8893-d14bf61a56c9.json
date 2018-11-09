@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "表情5",
+    "texture": "a08e8935-3ce9-4e8b-9621-305ec37c4ed8",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      173
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      173
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c4fa0a39-4142-4090-a87e-bbf873b59cf5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "发型-男3": {
+      "ver": "1.0.3",
+      "uuid": "6d9215a0-5897-448b-94ef-6cf6b7795d4d",
+      "rawTextureUuid": "c4fa0a39-4142-4090-a87e-bbf873b59cf5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -27.5,
+      "trimX": 36,
+      "trimY": 78,
+      "width": 179,
+      "height": 212,
+      "rawWidth": 261,
+      "rawHeight": 313,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "bcf94bfd-39fd-4098-b2fa-5d4e3c133a1e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "发型-女10": {
+      "ver": "1.0.3",
+      "uuid": "c8f3189f-f83e-4092-b2b3-a7d259003095",
+      "rawTextureUuid": "bcf94bfd-39fd-4098-b2fa-5d4e3c133a1e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 65,
+      "trimX": 49,
+      "trimY": 48,
+      "width": 163,
+      "height": 124,
+      "rawWidth": 261,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

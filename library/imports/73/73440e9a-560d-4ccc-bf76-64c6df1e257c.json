@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-男15",
+    "texture": "32200147-ebb9-4e13-bf29-793f62724685",
+    "atlas": "",
+    "rect": [
+      54,
+      117,
+      151,
+      116
+    ],
+    "offset": [
+      -1.5,
+      -18.5
+    ],
+    "originalSize": [
+      262,
+      313
+    ]
+  }
+}

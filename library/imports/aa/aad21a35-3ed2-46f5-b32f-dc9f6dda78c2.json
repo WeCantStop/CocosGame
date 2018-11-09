@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "中立",
+    "texture": "3759613d-4c3a-4536-b04a-c8ec8c2a506b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      513,
+      513
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      513,
+      513
+    ]
+  }
+}

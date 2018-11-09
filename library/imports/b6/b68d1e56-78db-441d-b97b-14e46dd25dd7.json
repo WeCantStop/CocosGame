@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-女9",
+    "texture": "799c15b5-7fc5-4ecd-8c4d-921e2ff667c6",
+    "atlas": "",
+    "rect": [
+      10,
+      48,
+      231,
+      204
+    ],
+    "offset": [
+      -5,
+      25
+    ],
+    "originalSize": [
+      261,
+      350
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e08d4668-1ee8-4f6b-bb25-aaf92d22c9c7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "发型-女11": {
+      "ver": "1.0.3",
+      "uuid": "412ce3ed-6a48-47fd-90d5-762ff87cf8e3",
+      "rawTextureUuid": "e08d4668-1ee8-4f6b-bb25-aaf92d22c9c7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 3,
+      "offsetY": 39,
+      "trimX": 39,
+      "trimY": 51,
+      "width": 189,
+      "height": 170,
+      "rawWidth": 261,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

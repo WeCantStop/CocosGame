@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-女15",
+    "texture": "7dc6f843-dd16-4a7b-a462-032282e39d57",
+    "atlas": "",
+    "rect": [
+      39,
+      54,
+      164,
+      166
+    ],
+    "offset": [
+      -9.5,
+      38
+    ],
+    "originalSize": [
+      261,
+      350
+    ]
+  }
+}

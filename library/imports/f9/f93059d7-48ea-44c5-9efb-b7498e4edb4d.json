@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "表情13",
+    "texture": "a90e9cef-0953-4118-9543-f5ad19297496",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      181,
+      174
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      181,
+      174
+    ]
+  }
+}

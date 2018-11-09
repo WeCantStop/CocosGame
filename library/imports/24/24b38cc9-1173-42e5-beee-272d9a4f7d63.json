@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Slice 19",
+    "texture": "defd0f91-866c-46bf-b314-a5dafafc1a39",
+    "atlas": "",
+    "rect": [
+      3,
+      12,
+      168,
+      153
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      174,
+      174
+    ]
+  }
+}

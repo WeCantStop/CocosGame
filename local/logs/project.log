@@ -1,0 +1,158 @@
+2018-11-09T09:39:12.366Z - normal: Load ~/.CocosCreator/settings.json
+2018-11-09T09:39:12.369Z - normal: checking language setting...
+2018-11-09T09:39:12.369Z - normal: Language: zh
+2018-11-09T09:39:13.211Z - success: protocol editor-framework registered
+2018-11-09T09:39:13.211Z - success: protocol app registered
+2018-11-09T09:39:13.211Z - success: protocol theme registered
+2018-11-09T09:39:13.211Z - success: protocol packages registered
+2018-11-09T09:39:13.211Z - success: protocol unpack registerred
+2018-11-09T09:39:13.212Z - success: protocol disable-commonjs registerred
+2018-11-09T09:39:13.368Z - normal: connected!
+2018-11-09T09:39:13.369Z - normal: Check project /Users/panwei/Desktop/cocosgame
+2018-11-09T09:39:13.370Z - normal: Initializing Cocos2d
+2018-11-09T09:39:13.622Z - normal: Initializing Asset Database
+2018-11-09T09:39:13.650Z - success: protocol uuid registerred
+2018-11-09T09:39:13.650Z - success: protocol db registerred
+2018-11-09T09:39:13.651Z - success: protocol thumbnail registerred
+2018-11-09T09:39:13.651Z - normal: Loading editor/builtin packages
+2018-11-09T09:39:13.668Z - success: anysdk loaded
+2018-11-09T09:39:13.775Z - success: assets loaded
+2018-11-09T09:39:13.781Z - success: builder loaded
+2018-11-09T09:39:13.784Z - success: cocos-analytics loaded
+2018-11-09T09:39:13.788Z - success: console loaded
+2018-11-09T09:39:13.791Z - success: hierarchy loaded
+2018-11-09T09:39:13.796Z - success: inspector loaded
+2018-11-09T09:39:13.797Z - success: keystore loaded
+2018-11-09T09:39:13.801Z - success: node-library loaded
+2018-11-09T09:39:13.804Z - success: package-asset loaded
+2018-11-09T09:39:13.806Z - success: preferences loaded
+2018-11-09T09:39:13.809Z - success: project-exporter loaded
+2018-11-09T09:39:13.824Z - success: project-importer loaded
+2018-11-09T09:39:13.827Z - success: project-settings loaded
+2018-11-09T09:39:13.831Z - success: ui-kit loaded
+2018-11-09T09:39:13.836Z - success: ui-grid loaded
+2018-11-09T09:39:13.839Z - success: scene loaded
+2018-11-09T09:39:13.846Z - success: sprite-editor loaded
+2018-11-09T09:39:13.854Z - success: store loaded
+2018-11-09T09:39:13.860Z - success: timeline loaded
+2018-11-09T09:39:13.860Z - normal: Loading builtin packages
+2018-11-09T09:39:13.864Z - success: asset-db-debugger loaded
+2018-11-09T09:39:13.865Z - success: color-picker loaded
+2018-11-09T09:39:13.869Z - success: package-manager loaded
+2018-11-09T09:39:13.874Z - success: sdkbox loaded
+2018-11-09T09:39:13.878Z - success: tester loaded
+2018-11-09T09:39:13.882Z - success: ui-kit-preview-extra loaded
+2018-11-09T09:39:13.886Z - success: ui-kit-preview loaded
+2018-11-09T09:39:13.889Z - success: ui-tree loaded
+2018-11-09T09:39:14.765Z - normal: Initializing project /Users/panwei/Desktop/cocosgame
+2018-11-09T09:39:14.794Z - normal: Loading packages
+2018-11-09T09:39:14.799Z - normal: Watching packages
+2018-11-09T09:39:14.810Z - normal: Run Application
+2018-11-09T09:39:15.919Z - success: preview server running at http://localhost:7456
+2018-11-09T09:39:19.758Z - normal: 1.8.2
+2018-11-09T09:42:05.089Z - normal: connected!
+2018-11-09T09:42:08.328Z - normal: 1.8.2
+2018-11-09T09:42:09.845Z - warn: The Asset used by component "cc.Sprite" in scene "gameScene.fire" is missing. Detailed information:
+Node path: "Canvas/QRImage"
+Asset url: "db://assets/scene/gameScene.fire"
+Missing uuid: "52a3bda7-ffd9-4432-beb7-1ed084743602"
+
+2018-11-09T09:50:07.951Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14030)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-09T09:50:16.749Z - error: scene 没有保存，请先保存相关信息再进行构建。
+    at Editor.Ipc.sendToPanel (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor/builtin/builder/panel/builder.js:1:14030)
+    at EventEmitter.ipcRenderer.on.n (/Applications/CocosCreator.app/Contents/Resources/app.asar/editor-framework/lib/renderer/ipc.js:1:4493)
+    at emitMany (events.js:127:13)
+    at EventEmitter.emit (events.js:204:7)
+2018-11-09T09:50:31.292Z - normal: Start building with options : {
+  "androidStudio": true,
+  "apiLevel": "",
+  "appABIs": [],
+  "appKey": "",
+  "appSecret": "",
+  "buildPath": "/Users/panwei/Desktop/cocosgame/build",
+  "debug": false,
+  "dest": "/Users/panwei/Desktop/cocosgame/build/web-mobile",
+  "encryptJs": true,
+  "excludeScenes": [],
+  "excludedModules": [
+    "TiledMap",
+    "Toggle",
+    "PageView",
+    "PageViewIndicator",
+    "VideoPlayer",
+    "WebView",
+    "RichText",
+    "AudioSource",
+    "MotionStreak",
+    "Audio",
+    "Graphics",
+    "DragonBones",
+    "Physics",
+    "Camera",
+    "Native NetWork"
+  ],
+  "includeAnySDK": false,
+  "includeEruda": false,
+  "includeSDKBox": false,
+  "inlineSpriteFrames": true,
+  "inlineSpriteFrames_native": true,
+  "jailbreakPlatform": false,
+  "md5Cache": false,
+  "mergeStartScene": true,
+  "oauthLoginServer": "",
+  "optimizeHotUpdate": true,
+  "orientation": {
+    "landscapeLeft": true,
+    "landscapeRight": true,
+    "portrait": false,
+    "upsideDown": false
+  },
+  "packageName": "org.cocos2d.worldCup",
+  "platform": "web-mobile",
+  "previewHeight": "720",
+  "previewWidth": "1280",
+  "privateKey": "",
+  "renderMode": "2",
+  "scenes": [
+    "d5a55ace-a71d-4edf-b741-008e93d0ad5f"
+  ],
+  "sourceMaps": false,
+  "startScene": "d5a55ace-a71d-4edf-b741-008e93d0ad5f",
+  "template": "default",
+  "title": "cocosgame",
+  "useDebugKeystore": true,
+  "vsVersion": "auto",
+  "webOrientation": "auto",
+  "wechatgame": {
+    "appid": "wxffb15fe9f0a244d1",
+    "orientation": "landscape"
+  },
+  "xxteaKey": "87134d01-d120-43",
+  "zipCompressJs": true,
+  "project": "/Users/panwei/Desktop/cocosgame",
+  "projectName": "cocosgame",
+  "debugBuildWorker": false
+}
+2018-11-09T09:50:31.294Z - normal: Building /Users/panwei/Desktop/cocosgame
+2018-11-09T09:50:31.294Z - normal: Destination /Users/panwei/Desktop/cocosgame/build/web-mobile
+2018-11-09T09:50:31.618Z - normal: Delete /Users/panwei/Desktop/cocosgame/build/web-mobile/**/*
+2018-11-09T09:50:33.597Z - normal: Compiled project javascript file successfully
+2018-11-09T09:50:33.597Z - normal: Start building assets
+2018-11-09T09:50:33.597Z - normal: Start spawn build-worker
+2018-11-09T09:50:34.161Z - normal: Finish spawn build-worker
+2018-11-09T09:50:34.161Z - normal: Start init build-worker
+2018-11-09T09:50:35.691Z - normal: 1.8.2
+2018-11-09T09:50:35.779Z - normal: Finish init build-worker
+2018-11-09T09:50:35.779Z - normal: Start build-assets in worker
+2018-11-09T09:50:36.764Z - normal: Finish build-assets in worker
+2018-11-09T09:50:36.767Z - normal: Finish building assets
+2018-11-09T09:50:36.840Z - normal: Start building raw assets
+2018-11-09T09:50:36.841Z - normal: Start building plugin scripts
+2018-11-09T09:50:37.102Z - normal: Finish building raw assets
+2018-11-09T09:50:37.110Z - normal: Generating main.js from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/shares/main.js
+2018-11-09T09:50:37.118Z - normal: Generating html from /Applications/CocosCreator.app/Contents/Resources/static/build-templates/web-mobile/template/index.html
+2018-11-09T09:50:37.122Z - normal: Built to "/Users/panwei/Desktop/cocosgame/build/web-mobile" successfully

@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "takePhoto",
+    "texture": "b61ab98f-1213-4001-a888-04ab2ae0b046",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      130,
+      50
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      130,
+      50
+    ]
+  }
+}

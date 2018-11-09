@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bottomBanner",
+    "texture": "c88def33-97b9-4faf-ac6b-e20994abdaaf",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      750,
+      243
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      750,
+      244
+    ]
+  }
+}

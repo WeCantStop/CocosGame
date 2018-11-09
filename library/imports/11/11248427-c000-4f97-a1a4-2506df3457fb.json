@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-女13",
+    "texture": "8f17203d-59e0-411c-9662-40243a38b47b",
+    "atlas": "",
+    "rect": [
+      56,
+      38,
+      148,
+      124
+    ],
+    "offset": [
+      -0.5,
+      75
+    ],
+    "originalSize": [
+      261,
+      350
+    ]
+  }
+}

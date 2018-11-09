@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "24d9dcd9-fba6-4861-be88-771d76533b89",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "俄罗斯": {
+      "ver": "1.0.3",
+      "uuid": "c6ecd624-8c2b-4d8d-bdd6-4a13e37d8f48",
+      "rawTextureUuid": "24d9dcd9-fba6-4861-be88-771d76533b89",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 513,
+      "height": 513,
+      "rawWidth": 513,
+      "rawHeight": 513,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

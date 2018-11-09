@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "乌拉圭",
+    "texture": "854253ec-d669-4b9a-8841-39786e401eee",
+    "atlas": "",
+    "rect": [
+      0,
+      1,
+      514,
+      513
+    ],
+    "offset": [
+      0,
+      -0.5
+    ],
+    "originalSize": [
+      514,
+      514
+    ]
+  }
+}

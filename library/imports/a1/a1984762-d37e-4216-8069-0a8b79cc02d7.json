@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-男7",
+    "texture": "ddbaef05-8868-4a48-8d1c-4d01bdbea75a",
+    "atlas": "",
+    "rect": [
+      54,
+      140,
+      150,
+      93
+    ],
+    "offset": [
+      -1.5,
+      -29.5
+    ],
+    "originalSize": [
+      261,
+      314
+    ]
+  }
+}

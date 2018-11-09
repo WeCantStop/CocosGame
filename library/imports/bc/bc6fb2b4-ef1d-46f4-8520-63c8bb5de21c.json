@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "发型-女2",
+    "texture": "23ed62e4-c8bd-4da4-8239-627f07702135",
+    "atlas": "",
+    "rect": [
+      15,
+      0,
+      230,
+      252
+    ],
+    "offset": [
+      -0.5,
+      49
+    ],
+    "originalSize": [
+      261,
+      350
+    ]
+  }
+}

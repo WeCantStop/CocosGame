@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "07-back",
+    "texture": "08f7293f-539a-406c-acd2-dc39d3d11f8e",
+    "atlas": "",
+    "rect": [
+      110,
+      66,
+      194,
+      257
+    ],
+    "offset": [
+      9.5,
+      -4
+    ],
+    "originalSize": [
+      395,
+      381
+    ]
+  }
+}

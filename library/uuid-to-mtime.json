@@ -1,0 +1,1837 @@
+{
+  "f8e6b000-5643-4b86-9080-aa680ce1f599": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "image"
+  },
+  "e851e89b-faa2-4484-bea6-5c01dd9f06e2": {
+    "asset": 1520237598000,
+    "meta": 1541756355047,
+    "relativePath": "image/default_btn_normal.png"
+  },
+  "71561142-4c83-4933-afca-cb7a17f67053": {
+    "asset": 1520237598000,
+    "meta": 1541756355048,
+    "relativePath": "image/default_btn_disabled.png"
+  },
+  "d81ec8ad-247c-4e62-aa3c-d35c4193c7af": {
+    "asset": 1520237598000,
+    "meta": 1541756355056,
+    "relativePath": "image/default_panel.png"
+  },
+  "b43ff3c2-02bb-4874-81f7-f2dea6970f18": {
+    "asset": 1520237598000,
+    "meta": 1541756355057,
+    "relativePath": "image/default_btn_pressed.png"
+  },
+  "99170b0b-d210-46f1-b213-7d9e3f23098a": {
+    "asset": 1520237598000,
+    "meta": 1541756355065,
+    "relativePath": "image/default_progressbar_bg.png"
+  },
+  "cfef78f1-c8df-49b7-8ed0-4c953ace2621": {
+    "asset": 1520237598000,
+    "meta": 1541756355064,
+    "relativePath": "image/default_progressbar.png"
+  },
+  "567dcd80-8bf4-4535-8a5a-313f1caf078a": {
+    "asset": 1520237598000,
+    "meta": 1541756355073,
+    "relativePath": "image/default_radio_button_off.png"
+  },
+  "9d60001f-b5f4-4726-a629-2659e3ded0b8": {
+    "asset": 1520237598000,
+    "meta": 1541756355072,
+    "relativePath": "image/default_radio_button_on.png"
+  },
+  "4bab67cb-18e6-4099-b840-355f0473f890": {
+    "asset": 1520237598000,
+    "meta": 1541756355079,
+    "relativePath": "image/default_scrollbar_bg.png"
+  },
+  "617323dd-11f4-4dd3-8eec-0caf6b3b45b9": {
+    "asset": 1520237598000,
+    "meta": 1541756355081,
+    "relativePath": "image/default_scrollbar_vertical_bg.png"
+  },
+  "d6d3ca85-4681-47c1-b5dd-d036a9d39ea2": {
+    "asset": 1520237598000,
+    "meta": 1541756355088,
+    "relativePath": "image/default_scrollbar_vertical.png"
+  },
+  "0291c134-b3da-4098-b7b5-e397edbe947f": {
+    "asset": 1520237598000,
+    "meta": 1541756355087,
+    "relativePath": "image/default_scrollbar.png"
+  },
+  "0275e94c-56a7-410f-bd1a-fc7483f7d14a": {
+    "asset": 1520237598000,
+    "meta": 1541756355092,
+    "relativePath": "image/default_sprite_splash.png"
+  },
+  "6e056173-d285-473c-b206-40a7fff5386e": {
+    "asset": 1520237598000,
+    "meta": 1541756355094,
+    "relativePath": "image/default_sprite.png"
+  },
+  "73a0903d-d80e-4e3c-aa67-f999543c08f5": {
+    "asset": 1520237598000,
+    "meta": 1541756355099,
+    "relativePath": "image/default_toggle_checkmark.png"
+  },
+  "c25b9d50-c8fc-4d27-beeb-6e7c1f2e5c0f": {
+    "asset": 1520237598000,
+    "meta": 1541756355100,
+    "relativePath": "image/default_toggle_disabled.png"
+  },
+  "d29077ba-1627-4a72-9579-7b56a235340c": {
+    "asset": 1520237598000,
+    "meta": 1541756355105,
+    "relativePath": "image/default_toggle_normal.png"
+  },
+  "fc09f9bd-2cce-4605-b630-8145ef809ed6": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "misc"
+  },
+  "2be36297-9abb-4fee-8049-9ed5e271da8a": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "misc/default_video.mp4"
+  },
+  "f6e6dd15-71d1-4ffe-ace7-24fd39942c05": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "obsolete"
+  },
+  "b8223619-7e38-47c4-841f-9160c232495a": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "obsolete/atom.plist"
+  },
+  "f743d2b6-b7ea-4c14-a55b-547ed4d0a045": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "particle"
+  },
+  "b2687ac4-099e-403c-a192-ff477686f4f5": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "particle/atom.plist"
+  },
+  "b181c1e4-0a72-4a91-bfb0-ae6f36ca60bd": {
+    "asset": 1520237598000,
+    "meta": 1541756355106,
+    "relativePath": "image/default_toggle_pressed.png"
+  },
+  "ae6c6c98-11e4-452f-8758-75f5c6a56e83": {
+    "asset": 1520237598000,
+    "meta": 1520237598000,
+    "relativePath": "prefab"
+  },
+  "972b9a4d-47ee-4c74-b5c3-61d8a69bc29f": {
+    "asset": 1520237598000,
+    "meta": 1541756355109,
+    "relativePath": "prefab/button.prefab"
+  },
+  "2c937608-2562-40ea-b264-7395df6f0cea": {
+    "asset": 1520237598000,
+    "meta": 1541756355109,
+    "relativePath": "prefab/canvas.prefab"
+  },
+  "27756ebb-3d33-44b0-9b96-e858fadd4dd4": {
+    "asset": 1520237598000,
+    "meta": 1541756355111,
+    "relativePath": "prefab/label.prefab"
+  },
+  "61aeb05b-3b32-452b-8eed-2b76deeed554": {
+    "asset": 1520237598000,
+    "meta": 1541756355112,
+    "relativePath": "prefab/editbox.prefab"
+  },
+  "785a442c-3ceb-45be-a46e-7317f625f3b9": {
+    "asset": 1520237598000,
+    "meta": 1541756355114,
+    "relativePath": "prefab/layout.prefab"
+  },
+  "ca8401fe-ad6e-41a8-bd46-8e3e4e9945be": {
+    "asset": 1520237598000,
+    "meta": 1541756355114,
+    "relativePath": "prefab/pageview.prefab"
+  },
+  "cd33edea-55f5-46c2-958d-357a01384a36": {
+    "asset": 1520237598000,
+    "meta": 1541756355116,
+    "relativePath": "prefab/particlesystem.prefab"
+  },
+  "5965ffac-69da-4b55-bcde-9225d0613c28": {
+    "asset": 1520237598000,
+    "meta": 1541756355116,
+    "relativePath": "prefab/progressBar.prefab"
+  },
+  "4a37dd57-78cd-4cec-aad4-f11a73d12b63": {
+    "asset": 1520237598000,
+    "meta": 1541756355118,
+    "relativePath": "prefab/richtext.prefab"
+  },
+  "32044bd2-481f-4cf1-a656-e2b2fb1594eb": {
+    "asset": 1520237598000,
+    "meta": 1541756355119,
+    "relativePath": "prefab/scrollview.prefab"
+  },
+  "0004d1cf-a0ad-47d8-ab17-34d3db9d35a3": {
+    "asset": 1520237598000,
+    "meta": 1541756355121,
+    "relativePath": "prefab/slider.prefab"
+  },
+  "1f55e3be-b89b-4b79-88de-47fd31018044": {
+    "asset": 1520237598000,
+    "meta": 1541756355121,
+    "relativePath": "prefab/sprite_splash.prefab"
+  },
+  "96083d03-c332-4a3f-9386-d03e2d19e8ee": {
+    "asset": 1520237598000,
+    "meta": 1541756355122,
+    "relativePath": "prefab/sprite.prefab"
+  },
+  "7de03a80-4457-438d-95a7-3e7cdffd6086": {
+    "asset": 1520237598000,
+    "meta": 1541756355123,
+    "relativePath": "prefab/tiledmap.prefab"
+  },
+  "0d784963-d024-4ea6-a7db-03be0ad63010": {
+    "asset": 1520237598000,
+    "meta": 1541756355124,
+    "relativePath": "prefab/toggle.prefab"
+  },
+  "bf0a434c-84dd-4a8e-a08a-7a36f180cc75": {
+    "asset": 1520237598000,
+    "meta": 1541756355126,
+    "relativePath": "prefab/toggleContainer.prefab"
+  },
+  "232d2782-c4bd-4bb4-9e01-909f03d6d3b9": {
+    "asset": 1520237598000,
+    "meta": 1541756355128,
+    "relativePath": "prefab/videoplayer.prefab"
+  },
+  "d1b8be49-b0a0-435c-83b7-552bed4bbe35": {
+    "asset": 1520237598000,
+    "meta": 1541756355128,
+    "relativePath": "prefab/toggleGroup.prefab"
+  },
+  "8c5001fd-07ee-4a4b-a8a0-63e15195e94d": {
+    "asset": 1520237598000,
+    "meta": 1541756355129,
+    "relativePath": "prefab/webview.prefab"
+  },
+  "4a4b4d1f-4dde-4878-979c-8d3d25dff072": {
+    "asset": 1528793369765,
+    "meta": 1526970088930,
+    "relativePath": "prefab"
+  },
+  "fa4c045b-7d85-4cef-9e8a-06b455602138": {
+    "asset": 1528797739200,
+    "meta": 1528797739206,
+    "relativePath": "prefab/clothes.prefab"
+  },
+  "326df705-9bf7-46ca-acbc-c1b14201e5f6": {
+    "asset": 1528684679053,
+    "meta": 1528684679062,
+    "relativePath": "prefab/defaultFemale.prefab"
+  },
+  "f91545cc-55a8-4190-80b6-51bca68d6762": {
+    "asset": 1528684652773,
+    "meta": 1528684652784,
+    "relativePath": "prefab/defaultPerson.prefab"
+  },
+  "1c438a63-f44d-401b-a3d9-42eb08524c3c": {
+    "asset": 1528447836300,
+    "meta": 1528681899291,
+    "relativePath": "prefab/largeThing.prefab"
+  },
+  "da9ffeab-9bba-4b6a-a05d-92eb1c7faf35": {
+    "asset": 1528447372549,
+    "meta": 1528681899293,
+    "relativePath": "prefab/largeThingPanelPrefab.prefab"
+  },
+  "dcf87aab-bfab-414f-93b3-fdf63bbe278c": {
+    "asset": 1528447825095,
+    "meta": 1528681899294,
+    "relativePath": "prefab/smallThing.prefab"
+  },
+  "6e920c0b-227d-4c67-8bf4-59ce0e56ef6a": {
+    "asset": 1528447353878,
+    "meta": 1528681899296,
+    "relativePath": "prefab/smallThingPanelPrefab.prefab"
+  },
+  "5bbd1463-dfdb-42e8-8697-f8830628457f": {
+    "asset": 1528797031592,
+    "meta": 1526881938000,
+    "relativePath": "res"
+  },
+  "00487f09-14fd-4527-a49a-2d41256c0302": {
+    "asset": 1528162523054,
+    "meta": 1528681899298,
+    "relativePath": "prefab/thing.prefab"
+  },
+  "e3bec866-dc1b-4c7f-82ad-68197db2edc6": {
+    "asset": 1528170297612,
+    "meta": 1527760647225,
+    "relativePath": "res/pane-icons"
+  },
+  "4d825603-28b5-4e84-8fcf-69e680e07533": {
+    "asset": 1527935406195,
+    "meta": 1528681900549,
+    "relativePath": "res/pane-icons/arrow-up.png"
+  },
+  "347b53b9-cbbe-4cbd-8d27-e9a2b2f645c8": {
+    "asset": 1527760647225,
+    "meta": 1528681900565,
+    "relativePath": "res/pane-icons/Slice 12.png"
+  },
+  "50a44931-ffc1-430e-8c12-e353679bd9ec": {
+    "asset": 1527760647226,
+    "meta": 1528681900569,
+    "relativePath": "res/pane-icons/Slice 13.png"
+  },
+  "0240a87e-07ec-4172-987f-5bc680bc22e5": {
+    "asset": 1527760647227,
+    "meta": 1528681900583,
+    "relativePath": "res/pane-icons/Slice 14.png"
+  },
+  "f27f1ddd-2446-42d4-9e16-6b5201b75af1": {
+    "asset": 1527760647227,
+    "meta": 1528681900590,
+    "relativePath": "res/pane-icons/Slice 15.png"
+  },
+  "6a17c4dc-d2a0-4817-8db8-8c2a215dc797": {
+    "asset": 1527760647228,
+    "meta": 1528681900597,
+    "relativePath": "res/pane-icons/Slice 16.png"
+  },
+  "6c121db4-f584-4b56-b85d-0e0df0fde009": {
+    "asset": 1527760647228,
+    "meta": 1528681900604,
+    "relativePath": "res/pane-icons/Slice 17.png"
+  },
+  "3f048f38-5bf3-411c-92a0-a540f9fa700c": {
+    "asset": 1527760647229,
+    "meta": 1528681900612,
+    "relativePath": "res/pane-icons/Slice 18.png"
+  },
+  "defd0f91-866c-46bf-b314-a5dafafc1a39": {
+    "asset": 1527760647229,
+    "meta": 1528681900619,
+    "relativePath": "res/pane-icons/Slice 19.png"
+  },
+  "098b4d50-8917-4bf7-bdbd-f66c07c01784": {
+    "asset": 1527760647230,
+    "meta": 1528681900627,
+    "relativePath": "res/pane-icons/Slice 20.png"
+  },
+  "b45d8426-747c-4b65-8b59-0063af205699": {
+    "asset": 1527760647231,
+    "meta": 1528681900634,
+    "relativePath": "res/pane-icons/Slice 21.png"
+  },
+  "fdae31d2-dfdd-4a18-85a8-cd28e2ea5ef5": {
+    "asset": 1528944898689,
+    "meta": 1527990075350,
+    "relativePath": "res/UI"
+  },
+  "5f024f39-18fc-41db-b5c6-6a9d0a52bc2e": {
+    "asset": 1527817716480,
+    "meta": 1528681900641,
+    "relativePath": "res/pane-icons/Slice 22.png"
+  },
+  "a8efe832-2380-40e3-878b-880fdd584e0b": {
+    "asset": 1528267559000,
+    "meta": 1528681900658,
+    "relativePath": "res/UI/camer.png"
+  },
+  "9cae501c-a7b9-41c1-abbd-0a07e1d7a371": {
+    "asset": 1527500132989,
+    "meta": 1528681900673,
+    "relativePath": "res/UI/close-btn.png"
+  },
+  "d4deb674-f674-4cd9-a4af-813f19daffc1": {
+    "asset": 1528162133492,
+    "meta": 1528681900749,
+    "relativePath": "res/UI/background.png"
+  },
+  "e80db586-2d00-456b-9b31-12f353aef5be": {
+    "asset": 1528098607000,
+    "meta": 1528681900816,
+    "relativePath": "res/UI/default.png"
+  },
+  "a9223cf0-28f9-4a31-a6c9-43e962107bb3": {
+    "asset": 1528681462876,
+    "meta": 1528681900848,
+    "relativePath": "res/UI/female-2.png"
+  },
+  "6551dee1-11de-4646-a958-45014d730944": {
+    "asset": 1528681462878,
+    "meta": 1528681900897,
+    "relativePath": "res/UI/female-3.png"
+  },
+  "90aed4a1-3d03-4c9c-8ea1-9da428db7302": {
+    "asset": 1528179758000,
+    "meta": 1528681900908,
+    "relativePath": "res/UI/female.png"
+  },
+  "bded874f-d6cd-4d8c-8105-16e004b719eb": {
+    "asset": 1527500169055,
+    "meta": 1528681900955,
+    "relativePath": "res/UI/frame-border.png"
+  },
+  "29694115-aab7-4cb4-9db4-4546c201e2ef": {
+    "asset": 1528681462879,
+    "meta": 1528681900983,
+    "relativePath": "res/UI/male-2.png"
+  },
+  "00116182-b57c-48ba-975f-6e0ecb48efe7": {
+    "asset": 1528681462880,
+    "meta": 1528681901041,
+    "relativePath": "res/UI/male-3.png"
+  },
+  "2fc0994f-9354-47c1-ab50-29ec41a3254b": {
+    "asset": 1528179758000,
+    "meta": 1528681901042,
+    "relativePath": "res/UI/male.png"
+  },
+  "cf7c630a-6f22-4969-8b48-02035b999471": {
+    "asset": 1527500124026,
+    "meta": 1528681901065,
+    "relativePath": "res/UI/scale-btn.png"
+  },
+  "0fa5f244-6574-497a-b9f1-1617aa669b53": {
+    "asset": 1527953521412,
+    "meta": 1470809844000,
+    "relativePath": "resources"
+  },
+  "a0e9a554-9ac2-4053-a3f9-4b5b418ffed4": {
+    "asset": 1528447508580,
+    "meta": 1527663006467,
+    "relativePath": "resources/image"
+  },
+  "85351209-7eed-406e-8f5a-4cdadeca65f9": {
+    "asset": 1528179394942,
+    "meta": 1528162282932,
+    "relativePath": "resources/image/female"
+  },
+  "778592d0-dddb-4ca9-88b5-b8e74e440b6d": {
+    "asset": 1528277985777,
+    "meta": 1528179394939,
+    "relativePath": "resources/image/female/face"
+  },
+  "a957a040-a9c0-4f68-90d4-9b7362a8a69b": {
+    "asset": 1527657926000,
+    "meta": 1528681901094,
+    "relativePath": "resources/image/female/face/表情1.png"
+  },
+  "8e3e598c-9b15-4796-8fcf-14e530e03e7d": {
+    "asset": 1527657936000,
+    "meta": 1528681901104,
+    "relativePath": "resources/image/female/face/表情10.png"
+  },
+  "d79eda9f-971a-4342-a910-3e558590392f": {
+    "asset": 1527657937000,
+    "meta": 1528681901125,
+    "relativePath": "resources/image/female/face/表情11.png"
+  },
+  "5b43dfac-e134-41aa-b67e-1e8412c02450": {
+    "asset": 1527657938000,
+    "meta": 1528681901140,
+    "relativePath": "resources/image/female/face/表情12.png"
+  },
+  "a90e9cef-0953-4118-9543-f5ad19297496": {
+    "asset": 1527657939000,
+    "meta": 1528681901157,
+    "relativePath": "resources/image/female/face/表情13.png"
+  },
+  "b875a07f-9078-4551-8ca0-de33d886cfe5": {
+    "asset": 1527657927000,
+    "meta": 1528681901176,
+    "relativePath": "resources/image/female/face/表情2.png"
+  },
+  "28c8c36a-695f-4126-89d9-9e00cf69a2fc": {
+    "asset": 1527657928000,
+    "meta": 1528681901193,
+    "relativePath": "resources/image/female/face/表情3.png"
+  },
+  "f5b8a427-7679-404b-b62a-6629bae786e2": {
+    "asset": 1527657929000,
+    "meta": 1528681901207,
+    "relativePath": "resources/image/female/face/表情4.png"
+  },
+  "a08e8935-3ce9-4e8b-9621-305ec37c4ed8": {
+    "asset": 1527657930000,
+    "meta": 1528681901215,
+    "relativePath": "resources/image/female/face/表情5.png"
+  },
+  "1e4ca442-537e-4abc-b42e-896babb23eb3": {
+    "asset": 1527657932000,
+    "meta": 1528681901238,
+    "relativePath": "resources/image/female/face/表情6.png"
+  },
+  "a810af26-e59e-418b-8a48-0dddcec07976": {
+    "asset": 1527657933000,
+    "meta": 1528681901251,
+    "relativePath": "resources/image/female/face/表情7.png"
+  },
+  "7d87f6dd-40f8-4faa-9304-7178706efbde": {
+    "asset": 1527657934000,
+    "meta": 1528681901265,
+    "relativePath": "resources/image/female/face/表情8.png"
+  },
+  "a6928ba4-5663-46c4-92a0-d6ad6bd43303": {
+    "asset": 1527657935000,
+    "meta": 1528681901285,
+    "relativePath": "resources/image/female/face/表情9.png"
+  },
+  "be7859f2-562e-460d-8915-169ea6622660": {
+    "asset": 1528179758000,
+    "meta": 1528681901298,
+    "relativePath": "resources/image/female/face/默认人物-表情.png"
+  },
+  "8f64211d-02e1-489b-af1a-deef216632da": {
+    "asset": 1528179394949,
+    "meta": 1528179394942,
+    "relativePath": "resources/image/female/hair"
+  },
+  "4cc7d291-6e36-485f-bad9-f807e36db1ee": {
+    "asset": 1528267991000,
+    "meta": 1528681901310,
+    "relativePath": "resources/image/female/face/默认脸男.png"
+  },
+  "b40056d6-caee-45e0-b533-593eacd4f348": {
+    "asset": 1527736824000,
+    "meta": 1528681901333,
+    "relativePath": "resources/image/female/hair/发型-女1.png"
+  },
+  "bcf94bfd-39fd-4098-b2fa-5d4e3c133a1e": {
+    "asset": 1527736835000,
+    "meta": 1528681901347,
+    "relativePath": "resources/image/female/hair/发型-女10.png"
+  },
+  "e08d4668-1ee8-4f6b-bb25-aaf92d22c9c7": {
+    "asset": 1527736836000,
+    "meta": 1528681901369,
+    "relativePath": "resources/image/female/hair/发型-女11.png"
+  },
+  "2dfb8138-3c10-41b5-a8d8-7a89b056af68": {
+    "asset": 1527736837000,
+    "meta": 1528681901389,
+    "relativePath": "resources/image/female/hair/发型-女12.png"
+  },
+  "8f17203d-59e0-411c-9662-40243a38b47b": {
+    "asset": 1527736839000,
+    "meta": 1528681901406,
+    "relativePath": "resources/image/female/hair/发型-女13.png"
+  },
+  "65ab8470-ec16-40ba-bcf1-7f6d58a9cb69": {
+    "asset": 1527736840000,
+    "meta": 1528681901427,
+    "relativePath": "resources/image/female/hair/发型-女14.png"
+  },
+  "7dc6f843-dd16-4a7b-a462-032282e39d57": {
+    "asset": 1527736841000,
+    "meta": 1528681901450,
+    "relativePath": "resources/image/female/hair/发型-女15.png"
+  },
+  "3fc6b87a-5cf9-42f9-b905-684a55cdc6c2": {
+    "asset": 1527736842000,
+    "meta": 1528681901468,
+    "relativePath": "resources/image/female/hair/发型-女16.png"
+  },
+  "bf4e1a83-7bea-45a4-99c3-8f7f9fa33a4e": {
+    "asset": 1527736825000,
+    "meta": 1528681901487,
+    "relativePath": "resources/image/female/hair/发型-女2.png"
+  },
+  "681a159c-be73-437b-90eb-f6cdd7f8808b": {
+    "asset": 1527736826000,
+    "meta": 1528681901504,
+    "relativePath": "resources/image/female/hair/发型-女3.png"
+  },
+  "27928142-78d7-460a-af8b-75d52bf46be2": {
+    "asset": 1527736828000,
+    "meta": 1528681901525,
+    "relativePath": "resources/image/female/hair/发型-女4.png"
+  },
+  "5a8a2585-5db1-402f-8ab1-94691578049d": {
+    "asset": 1527736829000,
+    "meta": 1528681901547,
+    "relativePath": "resources/image/female/hair/发型-女5.png"
+  },
+  "ef796532-1bb9-43c8-954d-1b3499b801df": {
+    "asset": 1527736830000,
+    "meta": 1528681901562,
+    "relativePath": "resources/image/female/hair/发型-女6.png"
+  },
+  "95ef3072-bd2c-4702-be8d-74e64f0a6869": {
+    "asset": 1527736831000,
+    "meta": 1528681901580,
+    "relativePath": "resources/image/female/hair/发型-女7.png"
+  },
+  "799bc14e-261e-4503-90d4-47aa14d66857": {
+    "asset": 1527736833000,
+    "meta": 1528681901596,
+    "relativePath": "resources/image/female/hair/发型-女8.png"
+  },
+  "b90e23e5-0b0b-400a-a2f3-d7e7e12b11af": {
+    "asset": 1528446036379,
+    "meta": 1528162213569,
+    "relativePath": "resources/image/large-things"
+  },
+  "799c15b5-7fc5-4ecd-8c4d-921e2ff667c6": {
+    "asset": 1527736834000,
+    "meta": 1528681901625,
+    "relativePath": "resources/image/female/hair/发型-女9.png"
+  },
+  "d0a35fef-ef5b-4d97-b59f-4c54616f75d7": {
+    "asset": 1528162213575,
+    "meta": 1528681901688,
+    "relativePath": "resources/image/large-things/01.png"
+  },
+  "6825c1bb-63d3-495d-ac85-15a8d03ba10f": {
+    "asset": 1528443821000,
+    "meta": 1528681901712,
+    "relativePath": "resources/image/large-things/02.png"
+  },
+  "ac217e2c-18d0-4091-ba8e-67fb31a43b45": {
+    "asset": 1528443818000,
+    "meta": 1528681901770,
+    "relativePath": "resources/image/large-things/03.png"
+  },
+  "3ca28592-ba9d-4c61-ab0a-442683b420c0": {
+    "asset": 1528162213574,
+    "meta": 1528681901793,
+    "relativePath": "resources/image/large-things/04.png"
+  },
+  "9d6421d2-ee58-4b80-84e7-69c0f0e2f5de": {
+    "asset": 1528162213574,
+    "meta": 1528681901864,
+    "relativePath": "resources/image/large-things/05.png"
+  },
+  "1d98f491-bdbb-495c-92d2-0be5e866cea9": {
+    "asset": 1528443795000,
+    "meta": 1528681901886,
+    "relativePath": "resources/image/large-things/06-back.png"
+  },
+  "aa699389-5051-4ffa-9c73-75db2e96b708": {
+    "asset": 1528443793000,
+    "meta": 1528681901940,
+    "relativePath": "resources/image/large-things/07-back.png"
+  },
+  "56918ccd-ee5c-46df-b089-cd1b9b25bbfd": {
+    "asset": 1528443823000,
+    "meta": 1528681901955,
+    "relativePath": "resources/image/large-things/08.png"
+  },
+  "7b57c734-05ee-49b7-8637-62a6212a65fd": {
+    "asset": 1528443834000,
+    "meta": 1528681902020,
+    "relativePath": "resources/image/large-things/09.png"
+  },
+  "a7752d2c-38c5-4110-8b45-9dc467553a6c": {
+    "asset": 1528443790000,
+    "meta": 1528681902030,
+    "relativePath": "resources/image/large-things/10.png"
+  },
+  "400bfb68-02cc-4fc8-9e68-d7e503096533": {
+    "asset": 1528162213571,
+    "meta": 1528681902116,
+    "relativePath": "resources/image/large-things/12.png"
+  },
+  "520447a8-aee5-479d-b1d3-212dbdb2c121": {
+    "asset": 1528443792000,
+    "meta": 1528681902124,
+    "relativePath": "resources/image/large-things/11.png"
+  },
+  "cafae277-9ebb-4a8e-b73a-87a7dfcefdaf": {
+    "asset": 1528162213571,
+    "meta": 1528681902192,
+    "relativePath": "resources/image/large-things/13.png"
+  },
+  "23814935-17ea-4c10-8591-a0d70c55aa6f": {
+    "asset": 1528443828000,
+    "meta": 1528681902199,
+    "relativePath": "resources/image/large-things/14-back.png"
+  },
+  "8d8dde54-ce6e-41f3-bfb3-96a769c0b3de": {
+    "asset": 1528162213570,
+    "meta": 1528681902256,
+    "relativePath": "resources/image/large-things/15.png"
+  },
+  "085bcff1-a0c5-4626-810b-b0497a44c56b": {
+    "asset": 1528447585834,
+    "meta": 1527835810453,
+    "relativePath": "resources/image/leg"
+  },
+  "cdf5bd31-8958-490c-90b8-6bfd9b063cbf": {
+    "asset": 1528443833000,
+    "meta": 1528681902269,
+    "relativePath": "resources/image/large-things/16.png"
+  },
+  "ad13d540-0c60-40be-b8d0-e64a079b325b": {
+    "asset": 1527762613000,
+    "meta": 1528681902338,
+    "relativePath": "resources/image/leg/01.png"
+  },
+  "64cc9aff-aa68-4175-a687-08d1ed976425": {
+    "asset": 1527762613000,
+    "meta": 1528681902357,
+    "relativePath": "resources/image/leg/02.png"
+  },
+  "c6a85ae9-d1b9-4365-ad10-a11e6757c0c8": {
+    "asset": 1527762613000,
+    "meta": 1528681902424,
+    "relativePath": "resources/image/leg/03.png"
+  },
+  "4d08e38d-6b19-4e80-92d1-5600977a2e68": {
+    "asset": 1527762613000,
+    "meta": 1528681902446,
+    "relativePath": "resources/image/leg/04.png"
+  },
+  "e983d144-b8f3-4518-b4fb-1b37df1930d8": {
+    "asset": 1527763057000,
+    "meta": 1528681902508,
+    "relativePath": "resources/image/leg/05.png"
+  },
+  "bd980c39-307b-4d04-8b03-4a7370640173": {
+    "asset": 1527762613000,
+    "meta": 1528681902527,
+    "relativePath": "resources/image/leg/06.png"
+  },
+  "c49a3d12-e0d4-4c69-8ec7-62beccab3b2a": {
+    "asset": 1527762613000,
+    "meta": 1528681902591,
+    "relativePath": "resources/image/leg/07.png"
+  },
+  "6f3567dc-a374-46a9-8ac8-7620de3c1502": {
+    "asset": 1527762613000,
+    "meta": 1528681902600,
+    "relativePath": "resources/image/leg/08.png"
+  },
+  "32ea8ccb-85db-4bc9-bb36-00527b5aa399": {
+    "asset": 1528180033315,
+    "meta": 1527944746601,
+    "relativePath": "resources/image/male"
+  },
+  "c8de8db2-82e4-4b63-8ba9-b312cea83ffb": {
+    "asset": 1528272126356,
+    "meta": 1527944168002,
+    "relativePath": "resources/image/male/face"
+  },
+  "7fa414e3-d1bc-42ff-8c99-18e7b308a714": {
+    "asset": 1527657926000,
+    "meta": 1528681902632,
+    "relativePath": "resources/image/male/face/表情1.png"
+  },
+  "0d6cf347-0d55-41ce-a479-333452acea6b": {
+    "asset": 1527657937000,
+    "meta": 1528681902638,
+    "relativePath": "resources/image/male/face/表情11.png"
+  },
+  "a9480d82-e704-41dc-a804-6a16b504d667": {
+    "asset": 1527657938000,
+    "meta": 1528681902666,
+    "relativePath": "resources/image/male/face/表情12.png"
+  },
+  "b2297251-8ce2-4d2d-bac1-92e7435efb14": {
+    "asset": 1527657927000,
+    "meta": 1528681902676,
+    "relativePath": "resources/image/male/face/表情2.png"
+  },
+  "e8ab1933-bde9-4188-9332-6f65b1750f4c": {
+    "asset": 1527657928000,
+    "meta": 1528681902696,
+    "relativePath": "resources/image/male/face/表情3.png"
+  },
+  "48a2bce3-3854-4d08-8d29-24b71abceedf": {
+    "asset": 1527657929000,
+    "meta": 1528681902718,
+    "relativePath": "resources/image/male/face/表情4.png"
+  },
+  "d30a0918-2363-4783-971d-8dcc399b81fb": {
+    "asset": 1527657930000,
+    "meta": 1528681902737,
+    "relativePath": "resources/image/male/face/表情5.png"
+  },
+  "9512a935-c8cf-470e-8bae-37589be83caa": {
+    "asset": 1527657932000,
+    "meta": 1528681902758,
+    "relativePath": "resources/image/male/face/表情6.png"
+  },
+  "2e6691fb-eb71-4668-a19b-9e309c186b38": {
+    "asset": 1527657933000,
+    "meta": 1528681902781,
+    "relativePath": "resources/image/male/face/表情7.png"
+  },
+  "482a24ae-d3f9-4142-85df-a5e7fa1dd08f": {
+    "asset": 1527657934000,
+    "meta": 1528681902802,
+    "relativePath": "resources/image/male/face/表情8.png"
+  },
+  "3605c15c-351e-4be9-9872-c11e68e7c736": {
+    "asset": 1527657935000,
+    "meta": 1528681902824,
+    "relativePath": "resources/image/male/face/表情9.png"
+  },
+  "5101479c-6833-464b-901b-4987decca680": {
+    "asset": 1528797370162,
+    "meta": 1527944746608,
+    "relativePath": "resources/image/male/hair"
+  },
+  "6ae6dc0f-7a12-4b0c-a5ab-cc0d922b47f9": {
+    "asset": 1528267991000,
+    "meta": 1528681902850,
+    "relativePath": "resources/image/male/face/默认脸男.png"
+  },
+  "6f82cfcc-b6a6-444d-9ea4-446c3f178bc3": {
+    "asset": 1527684121000,
+    "meta": 1528681902859,
+    "relativePath": "resources/image/male/hair/发型-男1.png"
+  },
+  "7639a9f2-1b46-4e57-8c10-81f0e192ec20": {
+    "asset": 1527684126000,
+    "meta": 1528681902895,
+    "relativePath": "resources/image/male/hair/发型-男10.png"
+  },
+  "d4acf0a2-2f5d-4499-b434-034866b5a255": {
+    "asset": 1527684127000,
+    "meta": 1528681902898,
+    "relativePath": "resources/image/male/hair/发型-男11.png"
+  },
+  "e9c97a37-7731-4b87-ae67-fe559572f734": {
+    "asset": 1527684128000,
+    "meta": 1528681902948,
+    "relativePath": "resources/image/male/hair/发型-男13.png"
+  },
+  "6bf88e88-f1a6-419b-a967-59c4d5c385bd": {
+    "asset": 1527684127000,
+    "meta": 1528681902950,
+    "relativePath": "resources/image/male/hair/发型-男12.png"
+  },
+  "32200147-ebb9-4e13-bf29-793f62724685": {
+    "asset": 1527684129000,
+    "meta": 1528681902996,
+    "relativePath": "resources/image/male/hair/发型-男15.png"
+  },
+  "087881c6-7d2f-4358-8d44-3e1b073c9dff": {
+    "asset": 1527684128000,
+    "meta": 1528681902998,
+    "relativePath": "resources/image/male/hair/发型-男14.png"
+  },
+  "520b8064-fc61-4d95-b174-ef9f7eff0a15": {
+    "asset": 1527684129000,
+    "meta": 1528681903049,
+    "relativePath": "resources/image/male/hair/发型-男16.png"
+  },
+  "0d2c5a0e-0ff3-40f2-bba2-009c1c919b6d": {
+    "asset": 1527684122000,
+    "meta": 1528681903051,
+    "relativePath": "resources/image/male/hair/发型-男2.png"
+  },
+  "530269b6-471d-4a74-9890-6ad0853f4676": {
+    "asset": 1527684123000,
+    "meta": 1528681903098,
+    "relativePath": "resources/image/male/hair/发型-男4.png"
+  },
+  "c4fa0a39-4142-4090-a87e-bbf873b59cf5": {
+    "asset": 1527684122000,
+    "meta": 1528681903101,
+    "relativePath": "resources/image/male/hair/发型-男3.png"
+  },
+  "ac097475-b6e2-4aa5-bc57-e5aa6b572f25": {
+    "asset": 1527684124000,
+    "meta": 1528681903140,
+    "relativePath": "resources/image/male/hair/发型-男6.png"
+  },
+  "8a4f67e8-ea83-448b-b248-9b6691c13fb4": {
+    "asset": 1527684123000,
+    "meta": 1528681903148,
+    "relativePath": "resources/image/male/hair/发型-男5.png"
+  },
+  "ddbaef05-8868-4a48-8d1c-4d01bdbea75a": {
+    "asset": 1527684124000,
+    "meta": 1528681903177,
+    "relativePath": "resources/image/male/hair/发型-男7.png"
+  },
+  "e1334b56-cf3c-4840-a252-953b3a24d07b": {
+    "asset": 1527684125000,
+    "meta": 1528681903193,
+    "relativePath": "resources/image/male/hair/发型-男8.png"
+  },
+  "2c18b09f-c36d-4a51-be91-37a5393e57ee": {
+    "asset": 1527684125000,
+    "meta": 1528681903217,
+    "relativePath": "resources/image/male/hair/发型-男9.png"
+  },
+  "df59ffd3-f2b3-49fa-b94b-e8062d6e3fe6": {
+    "asset": 1528164386872,
+    "meta": 1528164386868,
+    "relativePath": "resources/image/mask"
+  },
+  "24d51235-8417-4ef9-b814-ed1905a1cd13": {
+    "asset": 1528268318000,
+    "meta": 1528681903234,
+    "relativePath": "resources/image/male/hair/默认头发-02.png"
+  },
+  "96a1f68b-0ef5-4c61-b753-26920dcd6568": {
+    "asset": 1528117890000,
+    "meta": 1528681903246,
+    "relativePath": "resources/image/mask/世界杯活动元素-01.png"
+  },
+  "60a48afd-3592-4b28-a0c6-63da4d243bbb": {
+    "asset": 1528117890000,
+    "meta": 1528681903263,
+    "relativePath": "resources/image/mask/世界杯活动元素-02.png"
+  },
+  "c4e8aa2d-f3f9-4403-a220-95d97a807eb6": {
+    "asset": 1528117891000,
+    "meta": 1528681903275,
+    "relativePath": "resources/image/mask/世界杯活动元素-03.png"
+  },
+  "bbaf077b-d194-4077-bd4c-4d374d294cf0": {
+    "asset": 1528117891000,
+    "meta": 1528681903298,
+    "relativePath": "resources/image/mask/世界杯活动元素-04.png"
+  },
+  "52b0a778-f587-4ef3-8575-b248e8356228": {
+    "asset": 1528117892000,
+    "meta": 1528681903311,
+    "relativePath": "resources/image/mask/世界杯活动元素-05.png"
+  },
+  "30da0dff-07b5-4954-ab41-46b31c574d8a": {
+    "asset": 1528117893000,
+    "meta": 1528681903327,
+    "relativePath": "resources/image/mask/世界杯活动元素-06.png"
+  },
+  "a4b58903-0b5a-48f0-8e60-f683099750fb": {
+    "asset": 1528117893000,
+    "meta": 1528681903347,
+    "relativePath": "resources/image/mask/世界杯活动元素-07.png"
+  },
+  "03f80be2-a336-4183-984d-0ee86dd3f7f1": {
+    "asset": 1528117894000,
+    "meta": 1528681903365,
+    "relativePath": "resources/image/mask/世界杯活动元素-08.png"
+  },
+  "c64ffa45-aa5a-4b6d-abac-c756e5eeaf23": {
+    "asset": 1528117894000,
+    "meta": 1528681903384,
+    "relativePath": "resources/image/mask/世界杯活动元素-09.png"
+  },
+  "74d2deba-d6c1-41bd-bd37-c173d8c7b911": {
+    "asset": 1528117895000,
+    "meta": 1528681903401,
+    "relativePath": "resources/image/mask/世界杯活动元素-10.png"
+  },
+  "e3eeb87a-16d2-4568-8095-bc1f33bbdab2": {
+    "asset": 1528117895000,
+    "meta": 1528681903416,
+    "relativePath": "resources/image/mask/世界杯活动元素-11.png"
+  },
+  "1e740ed0-ca8a-4a90-87c0-c38aa32db9b7": {
+    "asset": 1528117896000,
+    "meta": 1528681903423,
+    "relativePath": "resources/image/mask/世界杯活动元素-12.png"
+  },
+  "3ab033c7-847e-4647-a54c-02f925c0502b": {
+    "asset": 1528117896000,
+    "meta": 1528681903445,
+    "relativePath": "resources/image/mask/世界杯活动元素-13.png"
+  },
+  "28723c13-2b87-47d7-bd27-7b6fb921e043": {
+    "asset": 1528117897000,
+    "meta": 1528681903459,
+    "relativePath": "resources/image/mask/世界杯活动元素-14.png"
+  },
+  "203f7ac0-9f62-432e-9c1f-4cac93e7c046": {
+    "asset": 1528447079394,
+    "meta": 1528162213575,
+    "relativePath": "resources/image/small-things"
+  },
+  "76e51945-79f2-4d69-8c23-b13e0ecdec53": {
+    "asset": 1528117898000,
+    "meta": 1528681903472,
+    "relativePath": "resources/image/mask/世界杯活动元素-15.png"
+  },
+  "bc3a2046-a693-4d35-a035-514ddaeada7d": {
+    "asset": 1528162213576,
+    "meta": 1528681903504,
+    "relativePath": "resources/image/small-things/01.png"
+  },
+  "eb17593c-77b6-4ee7-88ea-eb7f745f3f7f": {
+    "asset": 1528162213576,
+    "meta": 1528681903518,
+    "relativePath": "resources/image/small-things/02.png"
+  },
+  "80b45b0a-36cf-40fa-a799-799575d506ae": {
+    "asset": 1528259782000,
+    "meta": 1528681903547,
+    "relativePath": "resources/image/small-things/03.png"
+  },
+  "5a8c097c-747b-4add-9ede-c54af703cdb3": {
+    "asset": 1528162213570,
+    "meta": 1528681903564,
+    "relativePath": "resources/image/small-things/04.png"
+  },
+  "c5519495-ab1f-4fae-80a4-7801284a0ca9": {
+    "asset": 1528162213576,
+    "meta": 1528681903592,
+    "relativePath": "resources/image/small-things/05.png"
+  },
+  "9f00b7a6-ba19-40c4-a5fa-1e0cdb34438e": {
+    "asset": 1528443800000,
+    "meta": 1528681903610,
+    "relativePath": "resources/image/small-things/06.png"
+  },
+  "08f7293f-539a-406c-acd2-dc39d3d11f8e": {
+    "asset": 1528443804000,
+    "meta": 1528681903642,
+    "relativePath": "resources/image/small-things/07-back.png"
+  },
+  "66c5f023-bc42-4a4e-8530-9c5838c03cfe": {
+    "asset": 1528443806000,
+    "meta": 1528681903650,
+    "relativePath": "resources/image/small-things/08-back.png"
+  },
+  "d5a54c37-ddf0-4f9b-8942-522e262bd2a0": {
+    "asset": 1528443807000,
+    "meta": 1528681903690,
+    "relativePath": "resources/image/small-things/09-back.png"
+  },
+  "5715cf29-0b70-4d27-8c39-6419090f60ef": {
+    "asset": 1528259784000,
+    "meta": 1528681903708,
+    "relativePath": "resources/image/small-things/10.png"
+  },
+  "5ed36a7c-610f-4044-9f42-de476a6724bd": {
+    "asset": 1528259785000,
+    "meta": 1528681903757,
+    "relativePath": "resources/image/small-things/11.png"
+  },
+  "bebdf650-ce42-4c80-9977-bfc8c19dddd1": {
+    "asset": 1528162213581,
+    "meta": 1528681903778,
+    "relativePath": "resources/image/small-things/12.png"
+  },
+  "61bcc3dc-74e6-43a8-9678-ac768dcb9a12": {
+    "asset": 1528443803000,
+    "meta": 1528681903800,
+    "relativePath": "resources/image/small-things/13.png"
+  },
+  "cf2856f1-796e-4e51-a8a4-ab9fdbaca405": {
+    "asset": 1528443816000,
+    "meta": 1528681903826,
+    "relativePath": "resources/image/small-things/14.png"
+  },
+  "50807654-a5f2-4149-aace-008ce6b0bde6": {
+    "asset": 1528443826000,
+    "meta": 1528681903847,
+    "relativePath": "resources/image/small-things/15.png"
+  },
+  "7d5b8612-9fd8-4f13-bf97-2a3b042135c3": {
+    "asset": 1528443835000,
+    "meta": 1528681903871,
+    "relativePath": "resources/image/small-things/16.png"
+  },
+  "04efa313-2320-4558-af72-f5b8857298f2": {
+    "asset": 1528443796000,
+    "meta": 1528681903892,
+    "relativePath": "resources/image/small-things/17.png"
+  },
+  "e5f93fd8-939a-4721-ad81-2ee3680c32d3": {
+    "asset": 1528443797000,
+    "meta": 1528681903915,
+    "relativePath": "resources/image/small-things/18.png"
+  },
+  "c582f541-8db1-41a1-a800-34fc42ca6c95": {
+    "asset": 1528443801000,
+    "meta": 1528681903935,
+    "relativePath": "resources/image/small-things/19.png"
+  },
+  "67f3eafe-8720-4c4d-85e5-9d868e4a3d3d": {
+    "asset": 1528443802000,
+    "meta": 1528681903960,
+    "relativePath": "resources/image/small-things/20.png"
+  },
+  "4a36dc69-2061-4d12-82e8-d62a591d079a": {
+    "asset": 1528443824000,
+    "meta": 1528681903973,
+    "relativePath": "resources/image/small-things/21.png"
+  },
+  "0d97dd66-2606-479a-ad10-d1d06d28f799": {
+    "asset": 1528443825000,
+    "meta": 1528681903998,
+    "relativePath": "resources/image/small-things/22.png"
+  },
+  "2949ac08-8d53-4c5e-9595-f3e9d45ec43d": {
+    "asset": 1528443831000,
+    "meta": 1528681904015,
+    "relativePath": "resources/image/small-things/23.png"
+  },
+  "4f85031a-8c59-4221-a3fd-fcf08f3e1077": {
+    "asset": 1528443830000,
+    "meta": 1528681904050,
+    "relativePath": "resources/image/small-things/24.png"
+  },
+  "d4c5130a-3119-4509-aced-520166053c99": {
+    "asset": 1528443819000,
+    "meta": 1528681904063,
+    "relativePath": "resources/image/small-things/25.png"
+  },
+  "cd15a065-a279-4329-bc5a-3ade807195dc": {
+    "asset": 1528443820000,
+    "meta": 1528681904090,
+    "relativePath": "resources/image/small-things/26.png"
+  },
+  "a6c6ecc5-a6d2-4fc7-a19c-8765679e0721": {
+    "asset": 1528259782000,
+    "meta": 1528681904105,
+    "relativePath": "resources/image/small-things/27.png"
+  },
+  "0415c1b8-3a05-44c3-bf44-a005cf92f6ff": {
+    "asset": 1528162213582,
+    "meta": 1528681904138,
+    "relativePath": "resources/image/small-things/28.png"
+  },
+  "fbb806d4-151b-403c-aa9a-f430c282b633": {
+    "asset": 1528443798000,
+    "meta": 1528681904153,
+    "relativePath": "resources/image/small-things/29.png"
+  },
+  "44792e5b-0c49-44ba-ba58-7f596e992bcb": {
+    "asset": 1528443808000,
+    "meta": 1528681904183,
+    "relativePath": "resources/image/small-things/30.png"
+  },
+  "497fd079-e0b7-42ba-877c-450c68243d32": {
+    "asset": 1528443809000,
+    "meta": 1528681904204,
+    "relativePath": "resources/image/small-things/31.png"
+  },
+  "1d1d68ac-ca51-46eb-9267-921873561fd2": {
+    "asset": 1528443811000,
+    "meta": 1528681904226,
+    "relativePath": "resources/image/small-things/32.png"
+  },
+  "3b0983d0-6b86-4425-ba3e-1c441b3204d9": {
+    "asset": 1528443812000,
+    "meta": 1528681904248,
+    "relativePath": "resources/image/small-things/33.png"
+  },
+  "4faf9cd8-452f-4da0-b2a6-8d1bacb3817d": {
+    "asset": 1528443814000,
+    "meta": 1528681904268,
+    "relativePath": "resources/image/small-things/34.png"
+  },
+  "998ece49-4e1d-4a56-a956-2616ca8b5f50": {
+    "asset": 1528443815000,
+    "meta": 1528681904292,
+    "relativePath": "resources/image/small-things/35.png"
+  },
+  "54fd8292-178c-4e33-836f-2f532b3f1f55": {
+    "asset": 1528162213584,
+    "meta": 1528681904313,
+    "relativePath": "resources/image/small-things/36.png"
+  },
+  "17a6aca9-951e-4561-88bd-63cb81fa7b28": {
+    "asset": 1528162213584,
+    "meta": 1528681904335,
+    "relativePath": "resources/image/small-things/37.png"
+  },
+  "030c8846-eb15-4892-b94a-821335f7e456": {
+    "asset": 1528452440107,
+    "meta": 1528175190398,
+    "relativePath": "resources/image/team-clothes"
+  },
+  "70387b04-29a4-4745-87c4-034439276d1a": {
+    "asset": 1528790933725,
+    "meta": 1528175190399,
+    "relativePath": "resources/image/team-clothes/agengting"
+  },
+  "a0d99bc1-e762-45e8-b7bb-8387444779c5": {
+    "asset": 1528443829000,
+    "meta": 1528681904359,
+    "relativePath": "resources/image/small-things/39.png"
+  },
+  "1e2061c7-c07a-4bfd-9ce1-9d0b07db0978": {
+    "asset": 1528791506197,
+    "meta": 1528175190402,
+    "relativePath": "resources/image/team-clothes/baxi"
+  },
+  "a9069355-6969-4dc7-9d41-4f68d776edb1": {
+    "asset": 1528791506202,
+    "meta": 1528175190405,
+    "relativePath": "resources/image/team-clothes/bilishi"
+  },
+  "c8ca01e3-f1d2-4677-857b-7247c377eb76": {
+    "asset": 1528790394489,
+    "meta": 1528452147628,
+    "relativePath": "resources/image/team-clothes/default"
+  },
+  "c1eb1182-cd4d-4acf-80a4-140a1249bc9f": {
+    "asset": 1528791506207,
+    "meta": 1528175190415,
+    "relativePath": "resources/image/team-clothes/deguo"
+  },
+  "84c5b161-6705-4f20-aaa6-a27d8067bad4": {
+    "asset": 1528791506211,
+    "meta": 1528175190420,
+    "relativePath": "resources/image/team-clothes/faguo"
+  },
+  "df845f3c-fce2-457e-a98f-d3080fe5f8c3": {
+    "asset": 1528791506216,
+    "meta": 1528175190426,
+    "relativePath": "resources/image/team-clothes/keluodiya"
+  },
+  "aca05f86-0fdc-4679-ad25-cfad7ea89e4d": {
+    "asset": 1528791506220,
+    "meta": 1528175190429,
+    "relativePath": "resources/image/team-clothes/putaoya"
+  },
+  "c0ed1a69-b18a-45b5-92a3-fc6f8c78ccba": {
+    "asset": 1528791506225,
+    "meta": 1528175190432,
+    "relativePath": "resources/image/team-clothes/wulagui"
+  },
+  "7e39bfef-871f-4b69-84ca-9a9c70aad5e4": {
+    "asset": 1528791506230,
+    "meta": 1528175190435,
+    "relativePath": "resources/image/team-clothes/xibanya"
+  },
+  "61d3bf95-a90b-4964-a179-2cde216210ab": {
+    "asset": 1528681462881,
+    "meta": 1527431522064,
+    "relativePath": "scene"
+  },
+  "d5a55ace-a71d-4edf-b741-008e93d0ad5f": {
+    "asset": 1541757027900,
+    "meta": 1541757027924,
+    "relativePath": "scene/gameScene.fire"
+  },
+  "de7d5219-3b2e-4c26-aeeb-8c7cd1842642": {
+    "asset": 1528772279229,
+    "meta": 1470911552000,
+    "relativePath": "script"
+  },
+  "9da98423-0658-4d7c-ac92-cea59b6e580b": {
+    "asset": 1528352353393,
+    "meta": 1528681910880,
+    "relativePath": "script/defaultPerson.js"
+  },
+  "af37c3a0-ea7e-4ed4-8b4d-be140cb82968": {
+    "asset": 1528099280548,
+    "meta": 1528681910988,
+    "relativePath": "script/itemTemplate.js"
+  },
+  "28488927-0a0b-42b2-a30c-32e7c77b1653": {
+    "asset": 1528344321286,
+    "meta": 1528681911052,
+    "relativePath": "script/xPanel.js"
+  },
+  "ba321493-2f72-4ee0-9f94-215eae2393d6": {
+    "asset": 1528702256008,
+    "meta": 1528702008173,
+    "relativePath": "res/country-flags"
+  },
+  "3759613d-4c3a-4536-b04a-c8ec8c2a506b": {
+    "asset": 1528673100000,
+    "meta": 1528702008258,
+    "relativePath": "res/country-flags/中立.png"
+  },
+  "854253ec-d669-4b9a-8841-39786e401eee": {
+    "asset": 1528673100000,
+    "meta": 1528702008260,
+    "relativePath": "res/country-flags/乌拉圭.png"
+  },
+  "24d9dcd9-fba6-4861-be88-771d76533b89": {
+    "asset": 1528673100000,
+    "meta": 1528702008308,
+    "relativePath": "res/country-flags/俄罗斯.png"
+  },
+  "b66ebbcd-f178-42eb-b692-fd8afc697ce0": {
+    "asset": 1528673100000,
+    "meta": 1528702008310,
+    "relativePath": "res/country-flags/克罗地亚.png"
+  },
+  "48310bce-317c-4bf0-a347-890ca0906bfb": {
+    "asset": 1528673100000,
+    "meta": 1528702008349,
+    "relativePath": "res/country-flags/巴西.png"
+  },
+  "3af389c4-a32b-4d36-a575-bef70244c8da": {
+    "asset": 1528673100000,
+    "meta": 1528702008356,
+    "relativePath": "res/country-flags/德国.png"
+  },
+  "e9d15d08-5c69-4deb-b69e-591ca37639e5": {
+    "asset": 1528673100000,
+    "meta": 1528702008391,
+    "relativePath": "res/country-flags/比利时.png"
+  },
+  "e15f998f-649f-4c08-aad2-24dcddce67ab": {
+    "asset": 1528673100000,
+    "meta": 1528702008404,
+    "relativePath": "res/country-flags/法国.png"
+  },
+  "2a9cf38e-2239-4e1f-a0c1-6f82e51555ed": {
+    "asset": 1528673100000,
+    "meta": 1528702008435,
+    "relativePath": "res/country-flags/葡萄牙.png"
+  },
+  "41dcf7ad-6c1b-43f5-b6b3-6b2ffbb37898": {
+    "asset": 1528673100000,
+    "meta": 1528702008448,
+    "relativePath": "res/country-flags/西班牙.png"
+  },
+  "1fc16b4c-5225-4471-9516-5878eeb138d9": {
+    "asset": 1528673100000,
+    "meta": 1528702008477,
+    "relativePath": "res/country-flags/阿根廷.png"
+  },
+  "cbcf690d-2bc6-4308-a3fb-3e6d90820caa": {
+    "asset": 1528341469000,
+    "meta": 1528702256062,
+    "relativePath": "res/country-flags/select-country.png"
+  },
+  "697b7edd-4da9-4cd5-a031-436b8ed5e8c4": {
+    "asset": 1528186494000,
+    "meta": 1528713196290,
+    "relativePath": "res/UI/icon-loading.png"
+  },
+  "c48bb2aa-2a76-4d73-b30f-cffec7331aa5": {
+    "asset": 1528721046995,
+    "meta": 1528721052758,
+    "relativePath": "script/itemList.js"
+  },
+  "4f3d1ce1-a6de-48d1-ab18-bc39de2fab71": {
+    "asset": 1528721208517,
+    "meta": 1528721209818,
+    "relativePath": "script/yPanel.js"
+  },
+  "c541e8a9-9118-484a-8eed-b88ce044c058": {
+    "asset": 1528761520000,
+    "meta": 1528790394694,
+    "relativePath": "resources/image/team-clothes/default/1a.png"
+  },
+  "2ae81ebb-aa1d-496a-b190-5dabd436fe7c": {
+    "asset": 1528761520000,
+    "meta": 1528790394731,
+    "relativePath": "resources/image/team-clothes/default/2a.png"
+  },
+  "92befbb1-02d9-4ca6-8578-f122c49e2978": {
+    "asset": 1528761520000,
+    "meta": 1528790394883,
+    "relativePath": "resources/image/team-clothes/default/3a.png"
+  },
+  "da5d52c2-2d64-47f9-a02f-77b23db09c0a": {
+    "asset": 1528761520000,
+    "meta": 1528790394902,
+    "relativePath": "resources/image/team-clothes/default/4a.png"
+  },
+  "f2a4dba3-aa03-412c-b144-9a98c2e825e9": {
+    "asset": 1528761522000,
+    "meta": 1528790395023,
+    "relativePath": "resources/image/team-clothes/default/6a.png"
+  },
+  "5a270e36-027a-42f3-a0b1-08a87b282423": {
+    "asset": 1528761520000,
+    "meta": 1528790395043,
+    "relativePath": "resources/image/team-clothes/default/5a.png"
+  },
+  "65d0c575-de8b-49b6-a701-87c45187bdd5": {
+    "asset": 1528761522000,
+    "meta": 1528790395161,
+    "relativePath": "resources/image/team-clothes/default/7a.png"
+  },
+  "c47cc687-d7d0-4738-bb3f-6395b3d01149": {
+    "asset": 1528761522000,
+    "meta": 1528790395182,
+    "relativePath": "resources/image/team-clothes/default/8a.png"
+  },
+  "19e07a6d-d459-46fd-a379-456b27e299ef": {
+    "asset": 1528761914000,
+    "meta": 1528790933865,
+    "relativePath": "resources/image/team-clothes/agengting/01.png"
+  },
+  "6220688a-dae6-4c1d-a869-afde6e211f93": {
+    "asset": 1528761914000,
+    "meta": 1528790933880,
+    "relativePath": "resources/image/team-clothes/agengting/02.png"
+  },
+  "ce4360ec-d4f4-461a-b4f4-a84fe0edf0b9": {
+    "asset": 1528761914000,
+    "meta": 1528790934003,
+    "relativePath": "resources/image/team-clothes/agengting/04.png"
+  },
+  "88cbbbb9-fb8c-42ac-969f-11e44ea10c9e": {
+    "asset": 1528761914000,
+    "meta": 1528790934018,
+    "relativePath": "resources/image/team-clothes/agengting/03.png"
+  },
+  "80a12a41-e4fc-4bc9-821f-58e802cc5900": {
+    "asset": 1528761914000,
+    "meta": 1528790934139,
+    "relativePath": "resources/image/team-clothes/agengting/05.png"
+  },
+  "d457db84-fbab-4875-a745-745ada0f640a": {
+    "asset": 1528761914000,
+    "meta": 1528790934159,
+    "relativePath": "resources/image/team-clothes/agengting/06.png"
+  },
+  "abd57836-9d62-4892-8b1f-d398633dc0cd": {
+    "asset": 1528761914000,
+    "meta": 1528790934274,
+    "relativePath": "resources/image/team-clothes/agengting/07.png"
+  },
+  "7c527bf1-c3a5-4a64-bdc9-513eca9c6ac1": {
+    "asset": 1528761916000,
+    "meta": 1528790934296,
+    "relativePath": "resources/image/team-clothes/agengting/08.png"
+  },
+  "11634786-d0b1-447f-82a2-6006107127d4": {
+    "asset": 1528762258000,
+    "meta": 1528791506379,
+    "relativePath": "resources/image/team-clothes/baxi/02.png"
+  },
+  "81702d3e-6b10-4a4e-9c45-38fc8a38e2a6": {
+    "asset": 1528762258000,
+    "meta": 1528791506404,
+    "relativePath": "resources/image/team-clothes/baxi/01.png"
+  },
+  "47212191-8dd8-4900-bc59-39d6d1c59e60": {
+    "asset": 1528762258000,
+    "meta": 1528791506537,
+    "relativePath": "resources/image/team-clothes/baxi/03.png"
+  },
+  "f9935c10-f759-46f7-bcab-7e69a820a8bf": {
+    "asset": 1528762258000,
+    "meta": 1528791506566,
+    "relativePath": "resources/image/team-clothes/baxi/04.png"
+  },
+  "5736b736-4608-4227-9d05-177cc0fbea0f": {
+    "asset": 1528762258000,
+    "meta": 1528791506686,
+    "relativePath": "resources/image/team-clothes/baxi/05.png"
+  },
+  "c42a5515-c402-47c5-b3d1-05029e26d006": {
+    "asset": 1528762258000,
+    "meta": 1528791506712,
+    "relativePath": "resources/image/team-clothes/baxi/06.png"
+  },
+  "9ed33ba7-12ca-41ce-84e6-f4752b54a28f": {
+    "asset": 1528762258000,
+    "meta": 1528791506841,
+    "relativePath": "resources/image/team-clothes/baxi/08.png"
+  },
+  "c4301b65-1df1-4cba-93bc-a5a79e10d056": {
+    "asset": 1528762258000,
+    "meta": 1528791506867,
+    "relativePath": "resources/image/team-clothes/baxi/07.png"
+  },
+  "35555b57-c1cf-4434-b55e-b061a2d6e0e3": {
+    "asset": 1528762304000,
+    "meta": 1528791506987,
+    "relativePath": "resources/image/team-clothes/bilishi/01.png"
+  },
+  "644023c6-d141-4a18-817c-106bfc116f9f": {
+    "asset": 1528762304000,
+    "meta": 1528791507016,
+    "relativePath": "resources/image/team-clothes/bilishi/02.png"
+  },
+  "478db68b-64bd-482d-b302-71162ab1c4bf": {
+    "asset": 1528762304000,
+    "meta": 1528791507174,
+    "relativePath": "resources/image/team-clothes/bilishi/04.png"
+  },
+  "13f244b6-63fd-484e-b77e-b4e44ac64eb0": {
+    "asset": 1528762304000,
+    "meta": 1528791507175,
+    "relativePath": "resources/image/team-clothes/bilishi/03.png"
+  },
+  "0ba83b45-dcb4-4b9c-aa01-e5fdea79b58b": {
+    "asset": 1528762306000,
+    "meta": 1528791507317,
+    "relativePath": "resources/image/team-clothes/bilishi/06.png"
+  },
+  "b8e1d3f0-42ff-4399-8175-16742f353ef8": {
+    "asset": 1528762304000,
+    "meta": 1528791507335,
+    "relativePath": "resources/image/team-clothes/bilishi/05.png"
+  },
+  "cde44f2a-06dc-441f-bee0-de65d9a21d43": {
+    "asset": 1528762306000,
+    "meta": 1528791507456,
+    "relativePath": "resources/image/team-clothes/bilishi/07.png"
+  },
+  "7e1b7f4e-9673-4363-a954-af832750737b": {
+    "asset": 1528762306000,
+    "meta": 1528791507478,
+    "relativePath": "resources/image/team-clothes/bilishi/08.png"
+  },
+  "c6664de8-6962-4854-a2df-e5b3dcc5ee29": {
+    "asset": 1528762382000,
+    "meta": 1528791507613,
+    "relativePath": "resources/image/team-clothes/deguo/01.png"
+  },
+  "76e02bf1-31e2-4828-9ed6-613c88a78b35": {
+    "asset": 1528762382000,
+    "meta": 1528791507635,
+    "relativePath": "resources/image/team-clothes/deguo/02.png"
+  },
+  "ea194e45-23e4-4cfb-8aac-5b3ecbc19f1d": {
+    "asset": 1528762382000,
+    "meta": 1528791507766,
+    "relativePath": "resources/image/team-clothes/deguo/04.png"
+  },
+  "3b80f551-9501-4036-8712-ae1c7db8f668": {
+    "asset": 1528762382000,
+    "meta": 1528791507782,
+    "relativePath": "resources/image/team-clothes/deguo/03.png"
+  },
+  "f0b3f147-d033-49d3-a49c-a15d24a5bf2e": {
+    "asset": 1528762382000,
+    "meta": 1528791507899,
+    "relativePath": "resources/image/team-clothes/deguo/05.png"
+  },
+  "c3c9cdf2-2865-41e8-8e1f-5e0e67431342": {
+    "asset": 1528762382000,
+    "meta": 1528791507922,
+    "relativePath": "resources/image/team-clothes/deguo/06.png"
+  },
+  "5657d482-50d6-4a2c-a19c-03563507dec1": {
+    "asset": 1528762382000,
+    "meta": 1528791508055,
+    "relativePath": "resources/image/team-clothes/deguo/07.png"
+  },
+  "394656a5-1c88-46dc-b4f9-5fac6eaa264c": {
+    "asset": 1528762382000,
+    "meta": 1528791508080,
+    "relativePath": "resources/image/team-clothes/deguo/08.png"
+  },
+  "af3ef5a9-a0a2-4841-bfc0-0aa283ea8c17": {
+    "asset": 1528762454000,
+    "meta": 1528791508218,
+    "relativePath": "resources/image/team-clothes/faguo/01.png"
+  },
+  "ad01d359-b439-4a31-803c-76b1d1be392f": {
+    "asset": 1528762454000,
+    "meta": 1528791508237,
+    "relativePath": "resources/image/team-clothes/faguo/02.png"
+  },
+  "c56b6857-02a1-4c50-9143-bd643c338e28": {
+    "asset": 1528762454000,
+    "meta": 1528791508368,
+    "relativePath": "resources/image/team-clothes/faguo/04.png"
+  },
+  "2505bdc7-b89d-42f6-9534-8b9871c09202": {
+    "asset": 1528762454000,
+    "meta": 1528791508384,
+    "relativePath": "resources/image/team-clothes/faguo/03.png"
+  },
+  "2ddb5104-e237-47fb-862a-49c58c754c63": {
+    "asset": 1528762454000,
+    "meta": 1528791508508,
+    "relativePath": "resources/image/team-clothes/faguo/06.png"
+  },
+  "a978e8bd-28ad-4675-951d-e2dff8d28cae": {
+    "asset": 1528762454000,
+    "meta": 1528791508528,
+    "relativePath": "resources/image/team-clothes/faguo/05.png"
+  },
+  "6b8dff05-07f2-493f-92fd-2c5f59f6989a": {
+    "asset": 1528762454000,
+    "meta": 1528791508662,
+    "relativePath": "resources/image/team-clothes/faguo/07.png"
+  },
+  "8c9872a6-ead1-413f-bf23-c25ac2f99992": {
+    "asset": 1528762454000,
+    "meta": 1528791508688,
+    "relativePath": "resources/image/team-clothes/faguo/08.png"
+  },
+  "4db80eee-9b0d-471a-83d9-45a682c04ef6": {
+    "asset": 1528762510000,
+    "meta": 1528791508842,
+    "relativePath": "resources/image/team-clothes/keluodiya/02.png"
+  },
+  "3589ca66-2342-4082-a46d-fa390d2a6f28": {
+    "asset": 1528762510000,
+    "meta": 1528791508875,
+    "relativePath": "resources/image/team-clothes/keluodiya/01.png"
+  },
+  "1bcb7d50-e4e8-411c-a407-09c57dcd5012": {
+    "asset": 1528762512000,
+    "meta": 1528791509001,
+    "relativePath": "resources/image/team-clothes/keluodiya/03.png"
+  },
+  "e7f94836-da5b-4b9f-9e12-4755b5e440c0": {
+    "asset": 1528762512000,
+    "meta": 1528791509025,
+    "relativePath": "resources/image/team-clothes/keluodiya/04.png"
+  },
+  "f2779d29-e338-44d4-a103-f8e1fc5a8b80": {
+    "asset": 1528762512000,
+    "meta": 1528791509154,
+    "relativePath": "resources/image/team-clothes/keluodiya/05.png"
+  },
+  "9b8c325d-9163-4c6d-b3e0-324fe319d941": {
+    "asset": 1528762512000,
+    "meta": 1528791509177,
+    "relativePath": "resources/image/team-clothes/keluodiya/06.png"
+  },
+  "4dc1eb52-d95e-4749-9ce2-7d14fbf9bd95": {
+    "asset": 1528762512000,
+    "meta": 1528791509303,
+    "relativePath": "resources/image/team-clothes/keluodiya/08.png"
+  },
+  "2eb1b250-0332-4d2f-94df-b47fb5710ac8": {
+    "asset": 1528762512000,
+    "meta": 1528791509326,
+    "relativePath": "resources/image/team-clothes/keluodiya/07.png"
+  },
+  "9b478f8f-e8d6-4176-8dd8-0f690df51a23": {
+    "asset": 1528762570000,
+    "meta": 1528791509464,
+    "relativePath": "resources/image/team-clothes/putaoya/01.png"
+  },
+  "72b693c9-9aea-4e40-ab97-6c77b0339345": {
+    "asset": 1528762570000,
+    "meta": 1528791509484,
+    "relativePath": "resources/image/team-clothes/putaoya/02.png"
+  },
+  "e478acfc-2be0-4c9e-be0a-59bd47e4a4b9": {
+    "asset": 1528762570000,
+    "meta": 1528791509601,
+    "relativePath": "resources/image/team-clothes/putaoya/03.png"
+  },
+  "334e6de7-49a2-48b6-82be-0089d1ffba0e": {
+    "asset": 1528762570000,
+    "meta": 1528791509626,
+    "relativePath": "resources/image/team-clothes/putaoya/04.png"
+  },
+  "a869b6c7-c827-4755-ae60-9dc7f8165f9f": {
+    "asset": 1528762570000,
+    "meta": 1528791509763,
+    "relativePath": "resources/image/team-clothes/putaoya/05.png"
+  },
+  "40017e08-f3dd-490e-95d4-5cedb70cb783": {
+    "asset": 1528762570000,
+    "meta": 1528791509787,
+    "relativePath": "resources/image/team-clothes/putaoya/06.png"
+  },
+  "297f95a6-e0c5-465a-a8e3-3f5a2b04fe30": {
+    "asset": 1528762570000,
+    "meta": 1528791509941,
+    "relativePath": "resources/image/team-clothes/putaoya/08.png"
+  },
+  "e53edb8f-8b3e-4efc-9009-40b5b8714d25": {
+    "asset": 1528762570000,
+    "meta": 1528791509967,
+    "relativePath": "resources/image/team-clothes/putaoya/07.png"
+  },
+  "ff9df8ba-4b20-449d-87bc-a0b71c2673ba": {
+    "asset": 1528762620000,
+    "meta": 1528791510090,
+    "relativePath": "resources/image/team-clothes/wulagui/01.png"
+  },
+  "deb6116d-ab8f-4484-8bb8-de5786714dce": {
+    "asset": 1528762620000,
+    "meta": 1528791510110,
+    "relativePath": "resources/image/team-clothes/wulagui/02.png"
+  },
+  "f6cfc94e-b1ef-4a94-b1fc-c56c064f2a73": {
+    "asset": 1528762620000,
+    "meta": 1528791510239,
+    "relativePath": "resources/image/team-clothes/wulagui/03.png"
+  },
+  "2c38557e-d016-4ddf-bb35-ebdaeb4498ef": {
+    "asset": 1528762620000,
+    "meta": 1528791510259,
+    "relativePath": "resources/image/team-clothes/wulagui/04.png"
+  },
+  "ae06debb-15ad-4e8c-bef1-ae8ce0f4eed9": {
+    "asset": 1528762620000,
+    "meta": 1528791510379,
+    "relativePath": "resources/image/team-clothes/wulagui/05.png"
+  },
+  "cf21ddea-b633-4621-9fa6-6fa42d3075fb": {
+    "asset": 1528762620000,
+    "meta": 1528791510401,
+    "relativePath": "resources/image/team-clothes/wulagui/06.png"
+  },
+  "40d8dfdb-89f8-401e-95a0-9c2f93cc21ac": {
+    "asset": 1528762620000,
+    "meta": 1528791510528,
+    "relativePath": "resources/image/team-clothes/wulagui/08.png"
+  },
+  "0e1cfdf1-b7a0-4548-a77a-7598f8f70a61": {
+    "asset": 1528762620000,
+    "meta": 1528791510552,
+    "relativePath": "resources/image/team-clothes/wulagui/07.png"
+  },
+  "fa6c27ec-6b9c-4993-9c96-eeea7c3e8758": {
+    "asset": 1528762680000,
+    "meta": 1528791510681,
+    "relativePath": "resources/image/team-clothes/xibanya/02.png"
+  },
+  "808a9b7f-9f1d-4631-a81f-e07027c99b42": {
+    "asset": 1528762680000,
+    "meta": 1528791510703,
+    "relativePath": "resources/image/team-clothes/xibanya/01.png"
+  },
+  "70172a16-cce7-4639-84c7-89c67bee858d": {
+    "asset": 1528762680000,
+    "meta": 1528791510844,
+    "relativePath": "resources/image/team-clothes/xibanya/04.png"
+  },
+  "bdc1e872-0ee5-43c9-988f-2014369c1b4f": {
+    "asset": 1528762680000,
+    "meta": 1528791510844,
+    "relativePath": "resources/image/team-clothes/xibanya/03.png"
+  },
+  "aaca152e-ff2b-43ba-904e-5ca18aa19d7d": {
+    "asset": 1528762680000,
+    "meta": 1528791510977,
+    "relativePath": "resources/image/team-clothes/xibanya/06.png"
+  },
+  "8a11d34a-3caa-45c4-947c-625de465490e": {
+    "asset": 1528762680000,
+    "meta": 1528791510998,
+    "relativePath": "resources/image/team-clothes/xibanya/05.png"
+  },
+  "861a5564-5886-4df2-9204-d0a02f2d0913": {
+    "asset": 1528762680000,
+    "meta": 1528791511146,
+    "relativePath": "resources/image/team-clothes/xibanya/08.png"
+  },
+  "88c511d6-6ac2-477f-9614-c2bdab3aa960": {
+    "asset": 1528762680000,
+    "meta": 1528791511168,
+    "relativePath": "resources/image/team-clothes/xibanya/07.png"
+  },
+  "7de603fd-82d2-47d3-a957-7f3004f6feec": {
+    "asset": 1528797651141,
+    "meta": 1528797651149,
+    "relativePath": "prefab/defaultPerson-2.prefab"
+  },
+  "e265532d-c56b-4f04-83ee-d5f8713bd507": {
+    "asset": 1528797701365,
+    "meta": 1528797701374,
+    "relativePath": "prefab/defaultPerson-3.prefab"
+  },
+  "bd91a172-ae6c-48b0-a01c-75b146232f1b": {
+    "asset": 1528797541825,
+    "meta": 1528797541845,
+    "relativePath": "prefab/defaultFemale-2.prefab"
+  },
+  "ed3f4a9e-754c-4e7c-ac49-127a463f97a9": {
+    "asset": 1528797581002,
+    "meta": 1528797581010,
+    "relativePath": "prefab/defaultFemale-3.prefab"
+  },
+  "0261b871-2fad-442e-8438-c7cbbbc979f3": {
+    "asset": 1528794959728,
+    "meta": 1528794961550,
+    "relativePath": "script/common.js"
+  },
+  "0381857f-4399-4f1c-9617-2eef0b32a1fb": {
+    "asset": 1528797417021,
+    "meta": 1528797031593,
+    "relativePath": "res/default-person-item"
+  },
+  "5ed2bbf6-442e-4e3c-b301-c7186bfb025c": {
+    "asset": 1528797417014,
+    "meta": 1528797417012,
+    "relativePath": "res/default-person-item/body"
+  },
+  "8e301461-5ae2-4b22-a5d5-91a81f9ace57": {
+    "asset": 1528761520000,
+    "meta": 1528797417182,
+    "relativePath": "res/default-person-item/body/1a.png"
+  },
+  "827482ee-5439-4fba-b93b-d835991ee776": {
+    "asset": 1528761520000,
+    "meta": 1528797417202,
+    "relativePath": "res/default-person-item/body/4a.png"
+  },
+  "7231cc87-2b8f-466f-97df-97cd2253f4fe": {
+    "asset": 1528761522000,
+    "meta": 1528797417341,
+    "relativePath": "res/default-person-item/body/7a.png"
+  },
+  "7adca313-ec4b-46f1-94fd-ba019e497050": {
+    "asset": 1528761520000,
+    "meta": 1528797417363,
+    "relativePath": "res/default-person-item/body/5a.png"
+  },
+  "706a295b-7238-4fb8-8bbd-299ed1586955": {
+    "asset": 1528797417018,
+    "meta": 1528797417016,
+    "relativePath": "res/default-person-item/hair"
+  },
+  "23ed62e4-c8bd-4da4-8239-627f07702135": {
+    "asset": 1527736825000,
+    "meta": 1528797417412,
+    "relativePath": "res/default-person-item/hair/发型-女2.png"
+  },
+  "da7917e4-6ad3-4321-864b-b7e0b25e6a6b": {
+    "asset": 1527736826000,
+    "meta": 1528797417414,
+    "relativePath": "res/default-person-item/hair/发型-女3.png"
+  },
+  "3793a172-9a8a-4bd3-b745-535b1ad7acbe": {
+    "asset": 1527684121000,
+    "meta": 1528797417474,
+    "relativePath": "res/default-person-item/hair/发型-男1.png"
+  },
+  "c173a439-0f23-419e-8f7d-3867561cb446": {
+    "asset": 1527684129000,
+    "meta": 1528797417475,
+    "relativePath": "res/default-person-item/hair/发型-男16.png"
+  },
+  "8eafb186-19ae-436b-a5c0-8eb16f41b4b9": {
+    "asset": 1528797417023,
+    "meta": 1528797417021,
+    "relativePath": "res/default-person-item/leg"
+  },
+  "483e5633-b3cd-4300-ad26-af1235fc2f1c": {
+    "asset": 1527762613000,
+    "meta": 1528797417562,
+    "relativePath": "res/default-person-item/leg/04.png"
+  },
+  "c7e2b74a-bed9-4776-87ec-a61e358e154e": {
+    "asset": 1527762613000,
+    "meta": 1528797417579,
+    "relativePath": "res/default-person-item/leg/02.png"
+  },
+  "f294dd91-f5ac-4c44-81ef-4d4591eaa15c": {
+    "asset": 1527763057000,
+    "meta": 1528797417688,
+    "relativePath": "res/default-person-item/leg/05.png"
+  },
+  "caa3fcfa-e70e-42b9-bd88-89755340860d": {
+    "asset": 1527762613000,
+    "meta": 1528797417689,
+    "relativePath": "res/default-person-item/leg/06.png"
+  },
+  "b61ab98f-1213-4001-a888-04ab2ae0b046": {
+    "asset": 1528883696000,
+    "meta": 1528884040771,
+    "relativePath": "res/UI/takePhoto.png"
+  },
+  "b1670330-a4d4-4a0e-ba74-48b638b43b8e": {
+    "asset": 1541754526796,
+    "meta": 1541754528822,
+    "relativePath": "script/main.js"
+  },
+  "c88def33-97b9-4faf-ac6b-e20994abdaaf": {
+    "asset": 1541756858423,
+    "meta": 1541756918204,
+    "relativePath": "res/UI/bottomBanner.png"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2dfb8138-3c10-41b5-a8d8-7a89b056af68",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "发型-女12": {
+      "ver": "1.0.3",
+      "uuid": "6608b3cd-5493-4424-859b-a105acbfa457",
+      "rawTextureUuid": "2dfb8138-3c10-41b5-a8d8-7a89b056af68",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 78,
+      "trimX": 56,
+      "trimY": 31,
+      "width": 148,
+      "height": 132,
+      "rawWidth": 261,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

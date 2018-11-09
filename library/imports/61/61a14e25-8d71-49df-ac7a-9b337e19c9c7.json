@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "世界杯活动元素-01",
+    "texture": "96a1f68b-0ef5-4c61-b753-26920dcd6568",
+    "atlas": "",
+    "rect": [
+      59,
+      62,
+      114,
+      52
+    ],
+    "offset": [
+      0,
+      -1.5
+    ],
+    "originalSize": [
+      232,
+      173
+    ]
+  }
+}

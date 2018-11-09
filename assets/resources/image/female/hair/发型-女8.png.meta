@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "799bc14e-261e-4503-90d4-47aa14d66857",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "发型-女8": {
+      "ver": "1.0.3",
+      "uuid": "9e9ccd6d-62fc-43f6-9819-408ad049ac4d",
+      "rawTextureUuid": "799bc14e-261e-4503-90d4-47aa14d66857",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": 26,
+      "trimX": 32,
+      "trimY": 50,
+      "width": 202,
+      "height": 198,
+      "rawWidth": 261,
+      "rawHeight": 350,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
