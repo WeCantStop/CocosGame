@@ -2,4 +2,5 @@
 
 ## 该游戏使用CocosCreator基于cocos.js编写。
 
-需要使用CocosCreator软件打开，下载地址> [CocosCreator下载地址](https://www.cocos.com/download)
+需要使用CocosCreator软件打开。
+下载地址> [CocosCreator下载地址](https://www.cocos.com/download)
