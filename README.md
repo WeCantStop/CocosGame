@@ -4,4 +4,4 @@
 
 需要使用CocosCreator软件打开。 
 
-[CocosCreator下载地址>](https://www.cocos.com/download)
+[CocosCreator下载地址](https://www.cocos.com/download)
