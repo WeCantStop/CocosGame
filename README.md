@@ -1,4 +1,3 @@
-# 梦幻挂机
+# world cup
 
-## 梦幻挂机游戏简介
->说明:暂无
+## 该游戏使用CocosCreato基于cocos.js编写。
